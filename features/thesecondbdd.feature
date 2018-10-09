@@ -1,6 +1,6 @@
 
 Feature:
-  <Some interesting description here>
+  this is the second feature
 
   Scenario:
-    <Some interesting scenario steps here>
+    the second bdd here
