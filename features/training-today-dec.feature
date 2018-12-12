@@ -3,4 +3,5 @@ Feature:
 
   Scenario:
     Given I purchase a coffee
-    Then blah blah
+    Then Action one
+    Then Action two
